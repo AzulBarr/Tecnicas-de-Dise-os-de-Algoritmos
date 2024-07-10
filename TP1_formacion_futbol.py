@@ -1,3 +1,7 @@
+/*
+Link al problema: https://vjudge.net/problem/UVA-11804
+*/
+
 nombres = [] 
 ataques = []
 defensas = []
