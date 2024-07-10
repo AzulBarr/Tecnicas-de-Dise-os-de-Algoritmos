@@ -1,3 +1,8 @@
+/*
+NO PASÓ
+Link al problema: https://vjudge.net/problem/UVA-10765
+*/
+
 #include <vector>
 #include <iostream>
 #include <algorithm>
