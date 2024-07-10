@@ -1,3 +1,7 @@
+/*
+Link al problema: https://vjudge.net/problem/SPOJ-GERGOVIA
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
