@@ -1,3 +1,7 @@
+/*
+Link al problema: https://vjudge.net/problem/UVA-11790
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
